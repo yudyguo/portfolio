@@ -15,7 +15,7 @@ MQJC Technology · Wocute Project · Full-time | Dec 2022 - Dec 2024 · Guangdon
 
 Interaction Designer
 Tencent · WeChat Project · Full-time | May 2021 - Dec 2022 · Guangdong, China · On-site
-![](Portfolio - yadi.pdf)
+[Portfolio - yadi.pdf](https://github.com/yudyguo/portfolio/blob/main/Portfolio%20-%20yadi.pdf)
 · Designed UI and UX for WeChat ecosystem: Delivered polished high-fidelity designs with minimal supervision, taking full ownership of feature-level UX quality.
 · Multi-industry Design: Collaborated with PMs, engineers, and data teams and translate cross-industry needs (retail, education, lifestyle services, local businesses) into scalable WeChat product solutions.
 · Agile Execution: Managed and executed 50+ WeChat feature releases with a 98% on-time launch rate, adapting design workflows to Tencent’s rigorous quality control, compliance requirements, and fast-paced review cycles.
